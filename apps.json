@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Sharma",
+      "description": "Application de gestion de bar et de stocks.",
+      "version": "1.0.0",
+      "category": "Gestion",
+      "downloadUrl": "",
+      "packageName": "",
+      "iconUrl": ""
+    }
+  ],
+  "books": []
+}
