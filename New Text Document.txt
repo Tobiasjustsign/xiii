@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/Tobiasjustsign/xiii/refs/heads/main/apps.json
+https://raw.githubusercontent.com/Tobiasjustsign/xiii/refs/heads/main/apps.json?token=GHSAT0AAAAAAEHCPBK76KMB5CHB7WCUVVMU2V5CDFA
+
+https://github.com/Tobiasjustsign/xiii-store/releases/tag/v1.0.0
+https://github.com/Tobiasjustsign/xiii-store/blob/main/rrii-social-avatar-800.png
